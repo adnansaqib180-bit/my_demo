@@ -1,20 +1,20 @@
 creating first git repsitory 
-<\br>
+<br>
 leveling up my ml journey with fucking git
-<\br>
+<br>
 lets fucking see how much time it will take 
-<\br>
+<br>
 and this fucking bull shit git github is very boring to learn oh !!!!!!!!!!
-<\br>
+<br>
         ======== enjoing my ml journey =======
-        <\br>
+        <br>
         already learned :
-        <\br>
+        <br>
         ===> logistic, linier rgression
-        <\br>
+        <br>
         ===> KNN SVM
-        <\br>
+        <br>
         ===> guassian nave bayes 
-        <\br>
+        <br>
         suiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 

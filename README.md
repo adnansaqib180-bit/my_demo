@@ -1,2 +1,1 @@
-# my_demo
-this is my first repository
+my name is adnan saqib from pakistan suiii
